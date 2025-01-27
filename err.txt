@@ -1,0 +1,367 @@
+PS C:\Users\aidan\Downloads\swbi> C:\Users\aidan\anaconda3\python.exe .\call.py
+{'phone_number': '(307) 635-4500', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(307) 622-9100', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(307) 314-7400', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(307) 840-7200', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(307) 209-4500', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(307) 429-7100', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(509) 886-7200', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'phone_number': '(360) 812-7400', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(253) 835-4100', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'phone_number': '(425) 610-2100', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(360) 423-2600', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'phone_number': '(509) 761-7200', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'phone_number': '(253) 864-0800', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(509) 736-2200', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(509) 598-7300', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'phone_number': '(360) 307-6900', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'phone_number': '(509) 487-0700', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(681) 443-2000', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'phone_number': '(567) 287-7100', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'phone_number': '(360) 207-8400', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(505) 761-9900', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'phone_number': '(505) 326-2100', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(715) 679-7600', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'phone_number': '(360) 604-8000', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(509) 394-9100', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(575) 652-5100', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(775) 884-2100', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(775) 828-1500', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'phone_number': '(406) 457-7200', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'phone_number': '(702) 474-1100', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(231) 252-7100', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(702) 342-6400', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'phone_number': '(406) 523-9000', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(517) 731-3100', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'phone_number': '(269) 775-3072', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(406) 586-0100', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'phone_number': '(248) 581-8028', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(859) 331-0364', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(859) 263-7000', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'phone_number': '(317) 350-7600', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(317) 597-7300', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(260) 616-7200', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(515) 963-3500', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(985) 641-7800', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(607) 739-8190', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(308) 833-7400', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(662) 349-5500', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(585) 456-1964', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(828) 633-3182', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(336) 419-1016', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(910) 821-7000', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(701) 572-2500', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(513) 486-7200', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(541) 928-5400', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(541) 693-5000', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(503) 844-9100', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(541) 273-3000', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(541) 732-3700', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(503) 777-8700', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(541) 673-0200', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(503) 589-0800', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(814) 693-5000', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(717) 307-2055', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(717) 753-7800', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(814) 806-1997', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(412) 587-7200', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(215) 867-7200', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(724) 873-8740', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(864) 540-7100', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(843) 779-3374', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(803) 731-3000', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(423) 892-6300', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(615) 203-7500', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(435) 865-9400', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(435) 654-5600', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(435) 787-1700', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(801) 567-1000', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(801) 818-2000', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(801) 334-4000', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(385) 448-8600', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(801) 254-5700', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(435) 634-7300', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(385) 346-6300', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(435) 789-5800', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(801) 561-6681', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(360) 812-7400', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(208) 542-1900', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(208) 743-2000', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(907) 644-1400', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(907) 374-8800', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(907) 500-9720', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(907) 420-3000', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+{'phone_number': '(907) 864-8000', 'pathway_id': '6f71c8e3-0798-4b42-8095-e81a3a790a43', 'wait_for_greeting': True, 'model': 'enhanced'}
+{'authorization': 'org_918c6ada38a2d32ef3df9e69f1588554e928230150c00d05ca0554ffeb93b66e67358c59571478c7eda569', 'Content-Type': 'application/json'}
+Traceback (most recent call last):
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 58, in <module>
+    responses = asyncio.run(app.run())
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 43, in run
+    responses = await asyncio.gather(*tasks)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 43, in run
+    responses = await asyncio.gather(*tasks)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 48, in call
+    response = await asyncio.to_thread(self.__bland.call, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\src\bland.py", line 184, in call
+    raise Exception(response.text)
+Exception: {"status":"error","message":"Rate limit exceeded"}
+PS C:\Users\aidan\Downloads\swbi>
+
+
+
+
+
+
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 43, in run
+    responses = await asyncio.gather(*tasks)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 48, in call
+    response = await asyncio.to_thread(self.__bland.call, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\src\bland.py", line 184, in call
+    raise Exception(response.text)
+Exception: {"status":"error","message":"Rate limit exceeded"}
+PS C:\Users\aidan\Downloads\swbi>
+
+
+
+
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 43, in run
+    responses = await asyncio.gather(*tasks)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 48, in call
+    response = await asyncio.to_thread(self.__bland.call, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\src\bland.py", line 184, in call
+    raise Exception(response.text)
+Exception: {"status":"error","message":"Rate limit exceeded"}
+PS C:\Users\aidan\Downloads\swbi>
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 43, in run
+    responses = await asyncio.gather(*tasks)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 48, in call
+    response = await asyncio.to_thread(self.__bland.call, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 43, in run
+    responses = await asyncio.gather(*tasks)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 48, in call
+    response = await asyncio.to_thread(self.__bland.call, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 43, in run
+    responses = await asyncio.gather(*tasks)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 43, in run
+    responses = await asyncio.gather(*tasks)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 43, in run
+    responses = await asyncio.gather(*tasks)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 48, in call
+    responses = await asyncio.gather(*tasks)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 48, in call
+    response = await asyncio.to_thread(self.__bland.call, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\call.py", line 48, in call
+    response = await asyncio.to_thread(self.__bland.call, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    response = await asyncio.to_thread(self.__bland.call, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+  File "C:\Users\aidan\anaconda3\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\concurrent\futures\thread.py", line 58, in run
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\anaconda3\Lib\concurrent\futures\thread.py", line 58, in run
+  File "C:\Users\aidan\anaconda3\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aidan\Downloads\swbi\src\bland.py", line 184, in call
+    raise Exception(response.text)
+Exception: {"status":"error","message":"Rate limit exceeded"}
