@@ -1,33 +1,16 @@
 # imports
 import os
+import pandas as pd
 from typing import List, Optional
 from dotenv import load_dotenv
 from src.bland import Bland
 import asyncio
+from datetime import datetime
 
 # load environment variables
 load_dotenv()
 
-# # create bland client
-# bland = Bland(api_key=os.getenv("BLAND_API_KEY"))
-
-# my_task = "Just have a casual conversation with the caller about their day."
-
-
-
-# # make call
-# resp = bland.call(
-#     phone_number="412-443-7255",
-#     pathway_id=os.getenv("PATHWAY_ID"),
-#     wait_for_greeting=True,
-#     first_sentence="Hey, is this the Sportsman's Warehouse in Bellingham?"
-# )
-
-# print(resp)
-
-
-
-class App():
+class CallApp():
     
     def __init__(self,
                  phone_numbers: List[str],
@@ -69,14 +52,18 @@ class App():
         # Assuming Bland.call is a synchronous operation, we'll run it in a thread pool
         response = await asyncio.to_thread(self.__bland.call, **kwargs)
         return response
-    
-phone_numbers = ["412-443-7255", "857-366-2214"]
-first_sentences = ["Hey, is this the Sportsman's Warehouse in Bellingham?", "Hey, is this the Sportsman's Warehouse in Washington?"]
 
-app = App(
-    phone_numbers=phone_numbers, 
-    first_sentences=first_sentences,
+phone_numbers = pd.read_csv("data/sw_phone_numbers.xlsx")["phone_number"].tolist()
+
+app = CallApp(
+    phone_numbers=phone_numbers,
     pathway_id=os.getenv("PATHWAY_ID")
 )
 responses = asyncio.run(app.run())
 print(responses)
+
+# write responses to a text file in data/
+time = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+with open(f"data/responses_{time}.txt", "w") as f:
+    for response in responses:
+        f.write(str(response) + "\n")

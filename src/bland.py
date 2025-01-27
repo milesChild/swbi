@@ -16,19 +16,7 @@ class Bland:
         """
         Send a heartbeat to the Bland API to test / keep the connection alive.
         """
-        pass
-
-    def __connect(self):
-        """
-        Connect to the Bland API.
-        """
-        pass
-
-    def __disconnect(self):
-        """
-        Disconnect from the Bland API.
-        """
-        pass
+        raise NotImplementedError("Heartbeat not implemented")
 
     def __get_headers(self):
         """
