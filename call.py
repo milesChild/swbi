@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 from src.bland import Bland
 import asyncio
 from datetime import datetime
+import time
 
 # load environment variables
 load_dotenv()
@@ -28,38 +29,64 @@ class CallApp():
         self.task = task
         self.pathway_id = pathway_id
 
-    async def run(self) -> List[dict]:
+    def run(self) -> List[dict]:
         responses = []
-        tasks = []
         for phone_number in self.phone_numbers:
-            kwargs = {
-                "phone_number": phone_number,
-                "task": self.task if self.task else None,
-                "pathway_id": self.pathway_id if self.pathway_id else None
-            }
-            tasks.append(self.call(**kwargs))
+            try:
+                # Add a small delay between calls to avoid rate limiting
+                time.sleep(1)  # 1 second delay
+                
+                kwargs = {
+                    "phone_number": phone_number,
+                    "task": self.task if self.task else None,
+                    "pathway_id": self.pathway_id if self.pathway_id else None
+                }
+                response = self.call(**kwargs)
+                
+                # Convert error responses to a consistent format
+                if isinstance(response, dict) and "error" in response:
+                    responses.append({
+                        "phone_number": phone_number,
+                        "status": "error",
+                        "message": response["error"]
+                    })
+                else:
+                    responses.append(response)
+                    
+            except Exception as e:
+                responses.append({
+                    "phone_number": phone_number,
+                    "status": "error",
+                    "message": str(e)
+                })
         
-        # Wait for all calls to complete
-        responses = await asyncio.gather(*tasks)
         return responses
     
-    async def call(self, **kwargs) -> dict:
-        # Assuming Bland.call is a synchronous operation, we'll run it in a thread pool
-        response = await asyncio.to_thread(self.__bland.call, **kwargs)
-        return response
+    def call(self, **kwargs) -> dict:
+        try:
+            response = self.__bland.call(**kwargs)
+            return response
+        except Exception as e:
+            print(f"Error calling {kwargs['phone_number']}: {e}")
+            return {"error": str(e)}
 
 # phone_numbers = pd.read_excel("data/sw_phone_numbers.xlsx")["phone_number"].tolist()
-phone_numbers = ["857-366-2214"]
+phone_numbers = ["857-366-2214", "412-443-7255"]
 
 app = CallApp(
     phone_numbers=phone_numbers,
     pathway_id=os.getenv("PATHWAY_ID")
 )
-responses = asyncio.run(app.run())
-print(responses)
+responses = app.run()
 
-# write responses to a text file in data/
-time = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-with open(f"data/responses_{time}.txt", "w") as f:
-    for response in responses:
-        f.write(str(response) + "\n")
+try:
+    df = pd.DataFrame(responses)
+    
+    time = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    df.to_csv(f"data/bland/responses_{time}.csv", index=False)
+            
+except Exception as e:
+    print(f"Error converting responses to DataFrame: {e}")
+    with open(f"data/bland/responses_{time}.txt", "w") as f:
+        for response in responses:
+            f.write(str(response) + "\n")

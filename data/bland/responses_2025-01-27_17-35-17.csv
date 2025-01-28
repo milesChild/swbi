@@ -1,0 +1,3 @@
+phone_number,status,message
+857-366-2214,error,"{""status"":""error"",""message"":""Rate limit exceeded""}"
+412-443-7255,error,"{""status"":""error"",""message"":""Rate limit exceeded""}"
