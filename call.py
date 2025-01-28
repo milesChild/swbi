@@ -59,6 +59,7 @@ class CallApp():
                     "status": "error",
                     "message": str(e)
                 })
+                time.sleep(30)
         
         return responses
     
