@@ -71,10 +71,7 @@ class CallApp():
             print(f"Error calling {kwargs['phone_number']}: {e}")
             return {"error": str(e)}
 
-#phone_numbers = pd.read_excel("data/sw_phone_numbers.xlsx")["phone_number"].tolist()
-#phone_numbers = pd.read_csv("data/bass_pro_stores.csv")["Phone Number"].tolist()
 phone_numbers = pd.read_csv("data/bass_pro_stores.csv", nrows=10)["Phone Number"].tolist()
-#phone_numbers = ["857-366-2214"]    
 
 app = CallApp(
     phone_numbers=phone_numbers,

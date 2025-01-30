@@ -49,8 +49,6 @@ def summarize_call(call_id, goal, questions):
         print(f"API request failed for call {call_id} with status code {response.status_code}")
         return None
 
-
-
 def get_past_calls(start_date: str, end_date: str):
     """
     Retrieves past calls within the specified date range.
